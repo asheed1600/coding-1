@@ -4,6 +4,7 @@ A code repository is a something that devlopers track something with a project
 
 a keyboard is a input device because it sends texts and its the computer electronic system. 
 
-a variable is something that stores data 
+a variable is something that stores data +
 
 one rule we learned was when we want to create a variable we have to put a hashtag 
+
